@@ -19,6 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a software engineer currently working at SoundHound AI. I recently graduated from Stanford University with my Bachelor's and Master's in computer science, where I specialized in artificial intelligence. During my time at school, I developed a love for all things language and I'm particularly interested in how technology can help us better understand the role and usage of language, whether through a linguistic or sociological lens. 
-
-This website is still in progress, but hopefully at some point it includes some cool projects and blog posts as I keep learning :) 
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
